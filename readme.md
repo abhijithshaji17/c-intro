@@ -1,5 +1,5 @@
 # Introduction to C/C++ 
-## Source code for TinkerHub DCS - C class 
+## Source code for TinkerHub DCS - Study Jam
 
 Refer the below articles for the compiler installation procedure in Windows OS:- <br>
 [**C/C++ extension in VS Code🔗**](https://code.visualstudio.com/docs/languages/cpp)<br>
