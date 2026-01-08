@@ -1,6 +1,6 @@
 # Introduction to C/C++ 
 ## Source code for TinkerHub DCS - Study Jam
-A sneak peak of what happened.. feel free to star this repo and check things out for yourself, dear makers.
+A sneak peak of what happened😊.. feel free to star this repo and check things out for yourself, dear makers💖.
 <br>
 
 Refer the below articles for the compiler installation procedure in Windows OS:- <br>
@@ -11,6 +11,10 @@ Materials attached for nerdsss!!🤓
 <br>
 
 **Happy Tinkering💫**
+<br>
+
 **From your Maker👷** - [**Abhijith Shaji**](https://github.com/abhijithshaji17)
+<br>
+
 ©️[**TinkerHub DCS**](https://github.com/DCS-CUSAT)
 
