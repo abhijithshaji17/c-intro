@@ -16,5 +16,5 @@ Materials attached for nerdsss!!🤓
 **From your Maker👷** - [**Abhijith Shaji**](https://github.com/abhijithshaji17)
 <br>
 
-©️[**TinkerHub DCS**](https://github.com/DCS-CUSAT)
+©️[**TinkerHub DCS**](https://www.instagram.com/tinkerhub.cusat)
 
